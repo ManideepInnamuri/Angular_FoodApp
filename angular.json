@@ -23,10 +23,10 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "nodemodules/bootstrap/dist.css/bootstrap.min.css",
-              "src/styles.css"
-            ],
+            "styles": [              
+              "src/styles.css"          
+            ],      
+
             "scripts": []
           },
           "configurations": {
